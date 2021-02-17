@@ -1,7 +1,7 @@
 
-# HTML-CSS-Bootstrap
+# HTML-CSS-Bootstrap,Java-script 
 
-This project is made in HTML5,css3,Bootstrap framework and google API.
+This project is made in HTML5,css3,Bootstrap framework,JavaScript and google API.
 Online  Shopping  Front-End  Design
 Download  your  own  images  to use  in  the  fron-end  pages 
 check  if  the Google  API Links  are  very  well  related.
