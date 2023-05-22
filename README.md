@@ -1,7 +1,7 @@
 
 # HTML-CSS-Bootstrap,Java-script 
 
-Visit this link : https://orangefronted.netlify.app/
+Click on this link for a Live Demonstration : https://orangefronted.netlify.app/
 
 This project is made in HTML5,css3,Bootstrap framework,JavaScript and google API.
 Online  Shopping  Front-End  Design
